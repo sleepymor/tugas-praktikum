@@ -64,4 +64,3 @@ class Trapesium {
         return (sisi1 + sisi2) * tinggi / 2;
     }
 }
-
